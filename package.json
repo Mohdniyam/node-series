@@ -10,6 +10,8 @@
   "author": "niyamul haque",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^4.1.2"
+    "chalk": "^4.1.2",
+    "express": "^4.18.2",
+    "mongodb": "^6.0.0"
   }
 }
